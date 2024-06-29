@@ -1,5 +1,6 @@
 
-comandos
+# comandos
+<sub>  
 1. Abrir la terminal de Git Bash o terminal en Linux, debe ser como administrador en Window
 
 2. Creamos una carpeta o directorio: 
@@ -48,8 +49,10 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
 
 13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
 
-Respuesta del punto 11 
-
+</sub> 
+ 
+## Respuesta del punto 11 
+<sub>  
 PIP (Python Package Installer) es el sistema de gestión de paquetes estándar para Python. Permite instalar y gestionar paquetes de software escritos en Python que están disponibles en el Python Package Index (PyPI). Aquí tienes una explicación detallada sobre qué es PIP y por qué es importante actualizarlo:
 
 ¿Qué es PIP?
@@ -76,6 +79,7 @@ Este comando instalará la última versión de PIP disponible desde PyPI, sobres
 
 En resumen, PIP es esencial para la gestión de paquetes en Python, y actualizarlo regularmente es importante para acceder a nuevas funcionalidades, mejoras de rendimiento, correcciones de errores y mantener la seguridad de tu entorno de desarrollo.
 
+</sub>   
 
 
 
